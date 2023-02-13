@@ -1,0 +1,8 @@
+C:\Users\marce\Downloads\Compressed\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.exe.config
+C:\Users\marce\Downloads\Compressed\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.exe
+C:\Users\marce\Downloads\Compressed\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.pdb
+C:\Users\marce\Downloads\Compressed\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.AssemblyReference.cache
+C:\Users\marce\Downloads\Compressed\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.SuggestedBindingRedirects.cache
+C:\Users\marce\Downloads\Compressed\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.CoreCompileInputs.cache
+C:\Users\marce\Downloads\Compressed\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.exe
+C:\Users\marce\Downloads\Compressed\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.pdb
